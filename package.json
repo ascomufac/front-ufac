@@ -28,12 +28,12 @@
   "workspaces": [
     "src/addons/volto-brasil-site",
     "src/addons/volto-brasil-theme",
-    "src/addons/volto-ufac-theme"
+    "src/addons/volto-tema-ufac"
   ],
   "addons": [
     "@plonegovbr/volto-brasil-site",
     "@plonegovbr/volto-brasil-theme",
-    "@ascomufac/volto-ufac-theme"
+    "@ascomufac/volto-tema-ufac"
   ],
   "jest": {
     "modulePathIgnorePatterns": [

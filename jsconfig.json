@@ -6,6 +6,9 @@
             ],
             "@plonegovbr/volto-brasil-theme": [
                 "addons/volto-brasil-theme/src"
+            ],
+            "@ascomufac/volto-tema-ufac": [
+                "addons/volto-tema-ufac/src"
             ]
         },
         "baseUrl": "src"

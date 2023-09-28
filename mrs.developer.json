@@ -13,10 +13,10 @@
     "path": "src",
     "branch": "main"
   },
-   "volto-ufac-theme": {
-    "package": "@ascomufac/volto-ufac-theme",
-    "url": "https://github.com/ascomufac/volto-ufac-theme.git",
-    "https": "https://github.com/ascomufac/volto-ufac-theme.git",
+   "volto-tema-ufac": {
+    "package": "@ascomufac/volto-tema-ufac",
+    "url": "https://github.com/ascomufac/volto-tema-ufac.git",
+    "https": "https://github.com/ascomufac/volto-tema-ufac.git",
     "path": "src",
     "branch": "main"
   }
